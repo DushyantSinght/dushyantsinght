@@ -5,7 +5,7 @@
 
 # Dushyant Singh Tanwar
 
-**Full-Stack Developer · Java Engineer · B.Tech CSE @ LPU**
+**Full-Stack Developer · Java Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dushyant-singh-tanwar)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dushyanttanwar68466@gmail.com)
