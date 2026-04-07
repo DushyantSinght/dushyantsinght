@@ -11,7 +11,6 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dushyanttanwar68466@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://dushyantsinghtanwar.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DushyantSinght)
-![Profile Views](https://komarev.com/ghpvc/?username=DushyantSinght&style=flat-square&color=0969da&label=Profile+Views)
 
 </div>
 
