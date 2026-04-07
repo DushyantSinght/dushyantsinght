@@ -1,0 +1,53 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 */8 * * *"   # runs every 8 hours
+  workflow_dispatch:          # allows manual trigger from Actions tab
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: anuraghazra/github-readme-stats@latest
+        with:
+          username: DushyantSinght
+          count_private: true
+          include_all_commits: true
+          show_icons: true
+          theme: default
+          hide_border: true
+          output_type: svg
+          output_filename: assets/stats.svg
+        env:
+          INPUT_PAT_1: ${{ secrets.PAT_1 }}
+
+      - name: Generate top languages card
+        uses: anuraghazra/github-readme-stats@latest
+        with:
+          username: DushyantSinght
+          count_private: true
+          output_type: svg
+          output_filename: assets/langs.svg
+          card_type: top_langs
+          layout: compact
+          hide_border: true
+          langs_count: 6
+        env:
+          INPUT_PAT_1: ${{ secrets.PAT_1 }}
+
+      - name: Commit generated SVGs
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg assets/langs.svg
+          git diff --cached --quiet || git commit -m "chore: update github stats [skip ci]"
+          git push
