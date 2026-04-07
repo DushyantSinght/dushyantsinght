@@ -1,16 +1,17 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
 <div align="center">
 
-![mountain-banner](https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&h=250&fit=crop&crop=center&q=80)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,30:16213e,60:0f3460,100:1a1a2e&height=220&section=header&text=Dushyant%20Singh%20Tanwar&fontSize=38&fontColor=e0e0e0&fontAlignY=40&desc=Full-Stack%20Developer%20·%20Java%20Engineer%20·%20B.Tech%20CSE%20%40%20LPU&descSize=15&descAlignY=62&animation=fadeIn)
 
-# Dushyant Singh Tanwar
+</div>
 
-**Full-Stack Developer · Java Engineer**
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dushyant-singh-tanwar)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dushyanttanwar68466@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DushyantSinght)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://dushyantsinghtanwar.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DushyantSinght)
+![Profile Views](https://komarev.com/ghpvc/?username=DushyantSinght&style=flat-square&color=0969da&label=Profile+Views)
 
 </div>
 
@@ -45,13 +46,13 @@ I'm a Computer Science student and full-stack developer with hands-on internship
 ---
 
 ## GitHub Stats
- 
+
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DushyantSinght&show_icons=true&theme=default&hide_border=true&count_private=true"/>
+  <img height="160em" src="assets/stats.svg" />
   &nbsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DushyantSinght&layout=compact&theme=default&hide_border=true"/>
+  <img height="160em" src="assets/langs.svg" />
 </p>
- 
+
 ---
 
 ## Education
@@ -64,6 +65,7 @@ I'm a Computer Science student and full-stack developer with hands-on internship
 
 <div align="center">
 
-![mountain-footer](https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&h=150&fit=crop&crop=bottom&q=80)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,30:0f3460,60:16213e,100:1a1a2e&height=120&section=footer&animation=fadeIn)
 
 </div>
+
